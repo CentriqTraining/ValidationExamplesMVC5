@@ -1,0 +1,7 @@
+e:\documents\visual studio 2017\Projects\ValidationExamples\.vs\ValidationExamples\13420\b\BusinessObjects\bin\Debug\BusinessObjects.dll.config
+e:\documents\visual studio 2017\Projects\ValidationExamples\.vs\ValidationExamples\13420\b\BusinessObjects\bin\Debug\BusinessObjects.dll
+e:\documents\visual studio 2017\Projects\ValidationExamples\.vs\ValidationExamples\13420\b\BusinessObjects\bin\Debug\BusinessObjects.pdb
+e:\documents\visual studio 2017\Projects\ValidationExamples\.vs\ValidationExamples\13420\i\BusinessObjects\Debug\BusinessObjects.BusinessObjects.resources
+e:\documents\visual studio 2017\Projects\ValidationExamples\.vs\ValidationExamples\13420\i\BusinessObjects\Debug\BusinessObjects.csproj.GenerateResource.Cache
+e:\documents\visual studio 2017\Projects\ValidationExamples\.vs\ValidationExamples\13420\i\BusinessObjects\Debug\BusinessObjects.dll
+e:\documents\visual studio 2017\Projects\ValidationExamples\.vs\ValidationExamples\13420\i\BusinessObjects\Debug\BusinessObjects.pdb

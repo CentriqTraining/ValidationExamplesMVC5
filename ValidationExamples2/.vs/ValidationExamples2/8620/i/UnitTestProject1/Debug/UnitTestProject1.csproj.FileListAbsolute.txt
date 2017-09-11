@@ -1,0 +1,8 @@
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\b\UnitTestProject1.dll
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\b\UnitTestProject1.pdb
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\i\UnitTestProject1\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\i\UnitTestProject1\Debug\UnitTestProject1.dll
+e:\documents\visual studio 2017\Projects\ValidationExamples2\.vs\ValidationExamples2\8620\i\UnitTestProject1\Debug\UnitTestProject1.pdb
