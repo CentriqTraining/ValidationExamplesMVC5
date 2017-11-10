@@ -1,0 +1,9 @@
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\BusinessObjects\bin\Debug\BusinessObjects.dll.config
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\BusinessObjects\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\BusinessObjects\Debug\BusinessObjects.ValidationErrorMessages.resources
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\BusinessObjects\Debug\BusinessObjects.csproj.GenerateResource.Cache
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\BusinessObjects\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\BusinessObjects\Debug\BusinessObjects.dll
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\BusinessObjects\Debug\BusinessObjects.pdb

@@ -1,0 +1,10 @@
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll
+E:\Documents\GitHub\ValidationExamplesMVC5\AttributeValidationShell\AttributeValidationShell\.vs\AttributeValidationShell\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.pdb
