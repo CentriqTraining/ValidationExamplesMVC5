@@ -1,0 +1,9 @@
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\BusinessObjects\bin\Debug\BusinessObjects.dll.config
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\BusinessObjects\bin\Debug\BusinessObjects.dll
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\BusinessObjects\bin\Debug\BusinessObjects.pdb
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\BusinessObjects\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\BusinessObjects\Debug\BusinessObjects.ValidationErrorMessages.resources
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\BusinessObjects\Debug\BusinessObjects.csproj.GenerateResource.Cache
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\BusinessObjects\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\BusinessObjects\Debug\BusinessObjects.dll
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\BusinessObjects\Debug\BusinessObjects.pdb

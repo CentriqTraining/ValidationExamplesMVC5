@@ -1,0 +1,10 @@
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll
+e:\Documents\Visual Studio 2017\Projects\AttributeValidation\.vs\AttributeValidation\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.pdb
